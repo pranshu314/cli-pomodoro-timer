@@ -5,7 +5,7 @@ This script takes 3 command line arguments:
 2. The length of rest session in minutes
 3. The number of sessions in the sitting
 
-You can alias the script to "pomo" so as to run it with
+You can alias the script to "pomo" and add its absolute path to your .bashrc or .zshrc file so as to run it with
 ```bash
 pomo 90 20 4
 ```
